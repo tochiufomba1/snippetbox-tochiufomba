@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	"snippetbox.tochiufomba.net/internal/models"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/models"
 )
 
 type UserModelInterface interface {

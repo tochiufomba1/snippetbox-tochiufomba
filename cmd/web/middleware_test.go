@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"snippetbox.tochiufomba.net/internal/assert"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/assert"
 )
 
 func TestCommonHeaders(t *testing.T) {

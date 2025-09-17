@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/justinas/alice"
-	"snippetbox.tochiufomba.net/ui"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/ui"
 )
 
 func (app *application) routes() http.Handler {

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"snippetbox.tochiufomba.net/internal/models"
-	"snippetbox.tochiufomba.net/internal/validator"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/models"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/validator"
 )
 
 func ping(w http.ResponseWriter, r *http.Request) {

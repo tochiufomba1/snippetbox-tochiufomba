@@ -1,4 +1,4 @@
-module snippetbox.tochiufomba.net
+module github.com/tochiufomba1/snippetbox-tochiufomba
 
 go 1.23.1
 

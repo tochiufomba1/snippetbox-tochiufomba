@@ -3,7 +3,7 @@ package mocks
 import (
 	"time"
 
-	"snippetbox.tochiufomba.net/internal/models"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/models"
 )
 
 var mockSnippet = models.Snippet{

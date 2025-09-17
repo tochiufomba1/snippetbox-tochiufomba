@@ -12,7 +12,7 @@ import (
 
 	"github.com/alexedwards/scs/v2"
 	"github.com/go-playground/form/v4"
-	"snippetbox.tochiufomba.net/internal/models/mocks"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/models/mocks"
 )
 
 // Create a newTestApplication helper which returns an instance of our

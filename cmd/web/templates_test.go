@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"snippetbox.tochiufomba.net/internal/assert"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/assert"
 )
 
 func TestHumanDate(t *testing.T) {

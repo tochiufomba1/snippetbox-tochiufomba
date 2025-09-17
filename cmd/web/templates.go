@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"snippetbox.tochiufomba.net/internal/models"
-	"snippetbox.tochiufomba.net/ui"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/internal/models"
+	"github.com/tochiufomba1/snippetbox-tochiufomba/ui"
 )
 
 type templateData struct {
